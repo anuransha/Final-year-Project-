@@ -1,2 +1,1 @@
-# Final-year-Project-
-Covid-19 FACE MASK DTECTION AND ALERT SYSTEM 
+# Face mask detection and alert system 
